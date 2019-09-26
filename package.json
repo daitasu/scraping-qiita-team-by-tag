@@ -1,0 +1,18 @@
+{
+  "name": "get_qiita",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "daitasu",
+  "license": "MIT",
+  "dependencies": {
+    "@types/dotenv": "^6.1.1",
+    "dotenv": "^8.1.0",
+    "puppeteer": "^1.20.0"
+  },
+  "devDependencies": {
+    "@types/node": "^12.7.5",
+    "@types/puppeteer": "^1.19.1",
+    "ts-node": "^8.4.1",
+    "typescript": "^3.6.3"
+  }
+}
